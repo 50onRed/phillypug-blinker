@@ -1,4 +1,4 @@
-phillypug-blinker
+Blinker Example
 =================
 
-Example from Philly Redsnake
+Example from RedSnake Philly by Steve Dorazio.
